@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="jakarta.jws.soap.SOAPBinding"/>
+    <fullyQualifiedTypeName name="jakarta.jws.WebService"/>
     <fullyQualifiedTypeName name="com.jotasantosdev.aula1.servico.CertidaoDeNascimento"/>
+    <fullyQualifiedTypeName name="com.jotasantosdev.aula1.servico.CertidaoNascimentoImpl"/>
+    <fullyQualifiedTypeName name="jakarta.xml.ws.Endpoint"/>
+    <fullyQualifiedTypeName name="com.jotasantosdev.aula2.servico.CertidaoNascimentoImplService"/>
+    <fullyQualifiedTypeName name="com.jotasantosdev.aula2.servico.CertidaoDeNascimento"/>
 </qualifiedTypeNameHistroy>

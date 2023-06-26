@@ -32,6 +32,29 @@
 				  </dependency>
 			  </dependencies>		  
 		  </plugin>
+		  
+		  <plugin>
+				<groupId>com.sun.xml.ws</groupId>
+				<artifactId>jaxws-maven-plugin</artifactId>
+				<version>3.0.0</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>wsimport</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<wsdlUrls>
+						<wsdlUrl>https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl</wsdlUrl>
+					</wsdlUrls>
+					<keep>true</keep>
+					<packageName>com.fourcatsdev.correios.servico</packageName>
+					<sourceDestDir>src/main/java</sourceDestDir>
+				</configuration>
+			</plugin>
+
+
 	  </plugins>
   </build>
 

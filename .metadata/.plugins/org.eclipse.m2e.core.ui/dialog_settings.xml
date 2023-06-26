@@ -25,12 +25,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.jotasantosdev.correios"/>
+			<item value="com.jotasantosdev.aula2"/>
 			<item value="com.jotasantosdev.aula1"/>
 		</list>
 		<list key="groupId">
 			<item value="com.jotasantosdev"/>
 		</list>
 		<list key="artifactId">
+			<item value="correios"/>
+			<item value="aula2"/>
 			<item value="aula1"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -65,6 +69,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>

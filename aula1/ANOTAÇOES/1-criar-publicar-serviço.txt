@@ -5,3 +5,12 @@ e quais o tipos de dados que serão usados
 Criar uma classe que implemente a interface, aqui deve ter o endpoint
 
 Na classe main devo criar a publicação do serviço
+
+
+clean install para rodar o projeto pela primeira vez
+
+portType para achar a interface do servico
+
+
+maven-archetype-quickstart
+maven -> update

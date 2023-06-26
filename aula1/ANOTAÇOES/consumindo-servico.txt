@@ -1,0 +1,9 @@
+preciso adicionar plugin para consumir serviços de terceiros no arquivo pom
+
+
+precisa de ulr wsdl
+ex: correiors 
+https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl
+
+
+na classe principal rodar como java aplication
