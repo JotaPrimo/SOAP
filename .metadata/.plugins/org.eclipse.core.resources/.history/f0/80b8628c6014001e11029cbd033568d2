@@ -1,0 +1,5 @@
+package com.jotasantosdev.aula1.servico;
+
+public class CertidaoNascimentoImpl {
+
+}

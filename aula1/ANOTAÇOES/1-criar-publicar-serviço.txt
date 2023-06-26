@@ -1,0 +1,7 @@
+Criar uma interface com os metodos dos serviços, devo indicar que é um webswervice 
+e quais o tipos de dados que serão usados
+
+
+Criar uma classe que implemente a interface, aqui deve ter o endpoint
+
+Na classe main devo criar a publicação do serviço

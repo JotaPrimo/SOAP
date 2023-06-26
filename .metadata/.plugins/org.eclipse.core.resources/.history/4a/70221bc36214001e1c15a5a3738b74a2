@@ -1,0 +1,10 @@
+package com.jotasantosdev.aula1.servico;
+
+public interface CertidaoDeNascimento {
+	
+	public int calcularIdade(String idade);
+	
+	
+	public String diaSemanaNascimento(String idade);
+
+}

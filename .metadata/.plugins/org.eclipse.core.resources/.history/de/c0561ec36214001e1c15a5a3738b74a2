@@ -1,0 +1,18 @@
+ package com.jotasantosdev.aula1.servico;
+
+ // SIB Service Implementation Bean
+public class CertidaoNascimentoImpl implements CertidaoDeNascimento {
+
+	@Override
+	public int calcularIdade(String idade) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String diaSemanaNascimento(String idade) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
